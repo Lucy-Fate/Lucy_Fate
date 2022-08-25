@@ -1,1 +1,1 @@
-# Lucy_Fate
+# LucyFate
